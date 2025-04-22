@@ -1,0 +1,19 @@
+.odd-no{
+    background-color: #f54242;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#sec-ele{
+    color: #2c29e3;
+    font-size: 36px;   
+}
+
+.odd-no.third-ele{
+    font-size: 24px;
+}
+
+#four-ele{
+    background-color: #95e329;
+    font-size: 24px;
+    font-weight: bold;
+}
